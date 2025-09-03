@@ -35,12 +35,12 @@ const config = defineConfig({
             {
               value: 'moonchainGeneva',
               label: 'Moonchain Geneva',
-              hint: 'geneva-rpc.moonchain.com',
+              hint: 'geneva-rpc.mxc.com',
             },
             {
               value: 'moonchain',
               label: 'Moonchain Mainnet',
-              hint: 'rpc.moonchain.com',
+              hint: 'rpc.mxc.com',
             },
           ],
         },
@@ -74,12 +74,12 @@ const config = defineConfig({
             {
               value: 'moonchainGeneva',
               label: 'Moonchain Geneva',
-              hint: 'geneva-rpc.moonchain.com',
+              hint: 'geneva-rpc.mxc.com',
             },
             {
               value: 'moonchain',
               label: 'Moonchain Mainnet',
-              hint: 'rpc.moonchain.com',
+              hint: 'rpc.mxc.com',
             },
           ],
         },
