@@ -114,5 +114,13 @@
     "expire": 31536000,
     "target": 100,
     "limit": 2
+  },
+  {
+    "product": 25853,
+    "name": "Moonchain InnAIQ International Translator: A device that couples with your mobile to translate anywhere / anytime",
+    "description": "InnAIQ is the smartest way to translate fast and accurate anywhere, anytime.",
+    "expire": 31536000,
+    "target": 25,
+    "limit": 2
   }
 ]
